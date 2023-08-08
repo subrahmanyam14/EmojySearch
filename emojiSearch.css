@@ -1,0 +1,21 @@
+input{
+    width: 250px;
+    height: 35px;
+    border: solid black 2.5px;
+    font-size: 20px;
+    font-weight: bold;
+}
+#division{
+    width: 300px;
+    height: 300px;
+    border: solid black 3px;
+    margin: auto;
+    margin-top: 12%;
+    background-color: rgb(12, 236, 236);
+}
+body{
+    background-color:rgb(150, 240, 171)
+}
+h1{
+    color: #e82d2d;
+}
